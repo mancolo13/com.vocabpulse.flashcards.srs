@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.vocabpulse.flashcards.srs
 
 import io.flutter.embedding.android.FlutterActivity
 
